@@ -1,8 +1,8 @@
 class Hello < Formula
   desc "A simple 'hello world' program"
   homepage "https://github.com/<your-username>/hello-world-cli"
-  url "..."
-  sha256 "..."
+  url "https://github.com/ianderthal/hello-cli/archive/refs/tags/v1.0.0.tar.gz"
+  sha256 "a331b336eeb9972338b2e938cb6f474853cab8c8cec706f40a223826ab06bff4"
   license "MIT"
 
   def install
